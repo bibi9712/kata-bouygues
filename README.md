@@ -1,0 +1,1 @@
+L'ensemble du kata se trouve dans le fichier test : RomanKataTests
